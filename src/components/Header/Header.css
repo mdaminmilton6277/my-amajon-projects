@@ -1,0 +1,18 @@
+.header {
+  height: 80px;
+  background-color: rgba(0, 0, 0, 0.726);
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  align-items: center;
+}
+.header-div a {
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 20px;
+}
+.header-div a:hover {
+  color: cadetblue;
+  margin: auto;
+}
